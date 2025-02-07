@@ -1,0 +1,55 @@
+p.carta{
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+.carta_img{
+    position: relative;
+    top: 100px;
+    left: 160px;
+    width: 100px;
+    height: auto;
+    
+}
+p.cafe{
+    position: relative;
+    top: 250px;  
+    left: 700px;
+    z-index: 1;
+}
+.cafe_img{
+    position: relative;
+    bottom: -150px;
+    left: 760px;
+    width: 100px;
+    height: auto;
+}
+p.contacto{
+    position: relative;
+    bottom: -500px;
+    right: -1250px;
+}
+body{
+    background-color: bisque;
+}
+.contacto_img{
+    position: relative;
+    top: 400px;
+    left: 1315px;
+    width: 100px;
+    height: auto;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+p.carta_color{
+    color: red;
+}
+p.color_cafe{
+    color: red;
+}
+p.estilo_contacto {
+    text-align: center;
+    color: red;
+}
